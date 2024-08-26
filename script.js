@@ -27,32 +27,7 @@ const recipes = [
         ],
         image: "apple_pie.jpg"
     },
-
-    {
-        title: "Banana Bread",
-        description: "A moist and delicious bread made with ripe bananas.",
-        ingredients: [
-            "1 1/2 cups all-purpose flour",
-            "1 teaspoon baking powder",
-            "1/2 teaspoon baking soda",
-            "1/4 teaspoon salt",
-            "1/2 cup unsalted butter, softened",
-            "1 cup granulated sugar",
-            "2 large eggs",
-            "1 teaspoon vanilla extract",
-            "1 cup mashed ripe bananas",
-            "1/2 cup chopped walnuts (optional)"
-        ],
-        instructions: [
-            "Preheat oven to 350°F (175°C). Grease a loaf pan.",
-            "In a bowl, whisk together flour, baking powder, baking soda, and salt.",
-            "In another bowl, cream butter and sugar until light and fluffy. Beat in eggs one at a time.",
-            "Mix in vanilla and bananas. Gradually add dry ingredients. Fold in walnuts.",
-            "Pour batter into prepared loaf pan and bake for 60-70 minutes, or until a toothpick inserted comes out clean.",
-            "Cool before slicing."
-        ],
-        image: "Bananabread.jpg"
-    },
+    
     {
         title: "Caesar Salad",
         description: "A classic Caesar salad with crisp romaine and creamy dressing.",
