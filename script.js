@@ -51,7 +51,7 @@ const recipes = [
             "Pour batter into prepared loaf pan and bake for 60-70 minutes, or until a toothpick inserted comes out clean.",
             "Cool before slicing."
         ],
-        image: "bananabread.jpg"
+        image: "Bananabread.jpg"
     },
     {
         title: "Caesar Salad",
